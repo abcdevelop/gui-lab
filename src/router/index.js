@@ -23,5 +23,6 @@ export default new Router({
       name: 'EleveConsult',
       component: EleveConsult
     }
-  ]
+  ],
+  mode: 'history'
 })
