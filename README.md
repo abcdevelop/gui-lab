@@ -1,6 +1,6 @@
 # gui-lab
 
-> Application visant à rassembler les interfaces utilisateur utile à un ou plusieurs projets. L'organisation graphique représente la principale préocupation, les données éventuelles ne sont que descriptives
+> Application visant à rassembler les interfaces utilisateur utiles à un ou plusieurs projets. L'organisation graphique représente la principale préoccupation, les données éventuelles ne sont que descriptives.
 
 
 ## Build Setup
