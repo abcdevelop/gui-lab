@@ -1,6 +1,7 @@
 # gui-lab
 
-> A Vue.js project
+> Application visant à rassembler les interfaces utilisateur utile à un ou plusieurs projets. L'organisation graphique représente la principale préocupation, les données éventuelles ne sont que descriptives
+
 
 ## Build Setup
 
