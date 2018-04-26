@@ -44,6 +44,7 @@
     <v-chip label>Externe/Demi-pensionnaire/Pensionnaire</v-chip>
     <v-chip label>Temps de parcours</v-chip>
     <v-chip label>Retards constatés</v-chip>
+    <v-chip label>Absences constatés</v-chip>
     <v-chip label>Rupture de résultats</v-chip>
     <v-chip label>Situation familiale</v-chip>
     <v-chip label>Suivi Professeur Principal</v-chip>
