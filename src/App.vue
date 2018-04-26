@@ -39,7 +39,8 @@
       menuItems: [
         {icon: 'home', title: 'Accueil', link: '/'},
         {icon: 'list', title: 'EleveList', link: '/EleveList'},
-        {icon: 'face', title: 'EleveConsult', link: '/EleveConsult'}
+        {icon: 'face', title: 'EleveConsult', link: '/EleveConsult'},
+        {icon: 'build', title: 'Talents', link: '/Talents'}
       ]
     })
   }
